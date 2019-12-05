@@ -40,6 +40,11 @@ Também com os pesos gerados, poderá testar seu modelo com a webcam utilizando 
 (PATH_VIDEO_PARA_TESTE para definir qual vídeo usar e PATH_VIDEO_TESTE_SAVE_PATH o vídeo com as marcas da classificação que
 será salvo)
 
+## Detecção
+
+Há também uma versão para detecção de imagens (Colab_Treinamento_Teste_Yolov3_Luis_Rafael_Vinicius.ipynb), baseado na yolo-v3, apresentado em https://pjreddie.com/darknet/yolo/.
+Esta versão é baseada no repositório https://github.com/AlexeyAB/darknet.
+
 ## Dataset
 
 Um dataset está disponível em

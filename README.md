@@ -40,6 +40,15 @@ Também com os pesos gerados, poderá testar seu modelo com a webcam utilizando 
 (PATH_VIDEO_PARA_TESTE para definir qual vídeo usar e PATH_VIDEO_TESTE_SAVE_PATH o vídeo com as marcas da classificação que
 será salvo)
 
+## Dataset
+
+Um dataset está disponível em
+https://drive.google.com/drive/folders/1IEe_yn8mnjYf9mWNCiDZ7hKIkag6cjsA?usp=sharing
+
+
+
+
+
 Fique livre para utilização deste código como bem desejar,
 
 Luís Otávio Mendes da Silva

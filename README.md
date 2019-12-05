@@ -52,5 +52,6 @@ https://drive.google.com/drive/folders/1IEe_yn8mnjYf9mWNCiDZ7hKIkag6cjsA?usp=sha
 Fique livre para utilização deste código como bem desejar,
 
 Luís Otávio Mendes da Silva
+Vinícius de Souza Rios
 
 lluisotavio@gmail.com

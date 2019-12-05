@@ -21,7 +21,7 @@ AMOSTRAS_POR_CLASSE = 0
 EPOCAS = 30
 BATCH_SIZE = 16
 label_nome = {0:'nao_arma', 1:'arma'}
-# Disponíveis modelos "INCEPTIONV3" "VGG16" e "MobileNetV2"
+\# Disponíveis modelos "INCEPTIONV3" "VGG16" e "MobileNetV2"
 MODELO = 'vgg16'
 
 PATH_MODELO = 'E:\\datasets\\resultado\\modelos\\_vgg16weights.03-0.07_dropout.h5'

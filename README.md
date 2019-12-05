@@ -6,7 +6,7 @@ aqui as duas classes como "armas" ou "não armas".
 
 As rotinas foram criadas para rodarem de forma idependente.
 
-##Treinamento
+## Treinamento
 
 Para uma execução padrão, apenas crie e altere os caminhos das pastas utilizadas no Config.py, insira as imagens com as classes
 para treinamento das duas classes nas pastas de treinamento (ARMAS_FOLDER e NAO_ARMAS_FOLDER) e rode o treinamento.py. Segue um

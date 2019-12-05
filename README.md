@@ -6,6 +6,8 @@ aqui as duas classes como "armas" ou "não armas".
 
 As rotinas foram criadas para rodarem de forma idependente.
 
+##Treinamento
+
 Para uma execução padrão, apenas crie e altere os caminhos das pastas utilizadas no Config.py, insira as imagens com as classes
 para treinamento das duas classes nas pastas de treinamento (ARMAS_FOLDER e NAO_ARMAS_FOLDER) e rode o treinamento.py. Segue um
 exemplo do Config.py abaixo:
@@ -28,6 +30,7 @@ PATH_MODELO = 'E:\\datasets\\resultado\\modelos\\_vgg16weights.03-0.07_dropout.h
 PATH_VIDEO_PARA_TESTE = 'C:\\Users\\LLUIS\\Documents\\Wondershare Filmora\\Output\\video_teste_filmes.mp4'
 PATH_VIDEO_TESTE_SAVE_PATH = 'C:\\Users\\LLUIS\\Desktop\\filme_classificacao.mp4'
 
+## Teste
 
 Com o treinamento feito,  e utilizando os pesos gerados (salvos em MODELO_SAVE_FOLDER e definindo qual será usado em PATH_MODELO),
 você poderá utilizar seu modelo para classificar suas imagens dentro das pastas de treinamento (ARMAS_TESTE_FOLDER, 

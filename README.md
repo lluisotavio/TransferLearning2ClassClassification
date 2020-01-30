@@ -60,3 +60,9 @@ Luís Otávio Mendes da Silva
 Vinícius de Souza Rios
 
 lluisotavio@gmail.com
+
+## Resultados
+
+Alguns resultados gerados pela aplicação deste código foram mostrados neste vídeo
+
+https://www.youtube.com/watch?v=ZGaMlhvkYdw
